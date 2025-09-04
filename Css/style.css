@@ -625,7 +625,7 @@ li > .menu__container > .grid__controling .control_center--grid {
   content: "Telegram";
 }
 .dock .icon:nth-child(6):hover::after {
-  content: "CA:TBA";
+  content: "CA:0xbF319A9efd95494008C108CBC4edd538B9d2Ae2a";
 }
 
 .dock .icon:nth-child(7):hover::after {
